@@ -1,3 +1,3 @@
 # FirstProject
-Just testing github
+Just going to test github
 file is modified first time.
